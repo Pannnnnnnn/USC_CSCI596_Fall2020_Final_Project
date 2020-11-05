@@ -1,3 +1,2 @@
-# USC_CSCI596_Fall2020_Final_Project
+# Parallelized FDTD Method for a 3D Electromagnetics Simulation
 
-## Parallized FDTD method for 3D Electromagnetics Simulation
