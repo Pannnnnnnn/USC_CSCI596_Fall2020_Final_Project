@@ -11,7 +11,7 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
 
 ![alt text]/Users/tsehsien/Desktop/Git_Repository/USC_CSCI596_Fall2020_Final_Project/Screen Shot 2020-11-21 at 9.37.10 PM.png
 
-![alt text]https://support.lumerical.com/hc/article_attachments/360057318913/inverse_design_y_branch_initialshape.png
+![alt text](https://support.lumerical.com/hc/article_attachments/360057318913/inverse_design_y_branch_initialshape.png)
 
 ## _Specific Objectives:_
 1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
