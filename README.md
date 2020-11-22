@@ -11,3 +11,6 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
 > Specific Objectives:
 1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
 2. Spatial decomposition of a series version problem, with the discuss of what cut-off length of each cell shoule be considered.
+
+
+~~The world is flat.~~
