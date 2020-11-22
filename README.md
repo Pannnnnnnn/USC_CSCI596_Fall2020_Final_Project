@@ -9,7 +9,9 @@ In this proposal, the parallel computing technique will be applied on a general 
 This new application of parallel computing on a 3-dimensional FDTD electromagnetic inverse desgin problem can be applied to not only on the design of optical components for the optical communications, but also on the design of complex optical systems for Augmented Reality(AR) and Virtual Reality(VR). The previous undiscovered possible designs that might have higher efficiencies and more advanced functionalities can be explored after applying the parallel computing. A even larger scale electromagnetic inverse design probelm can also be explored by the combination of hybrid MPI, OpenMP, and CUDA.
 
 
-![alt text]/Users/tsehsien/Desktop/Screen Shot 2020-11-21 at 9.37.25 PM.png
+![alt text]/Users/tsehsien/Desktop/Git_Repository/USC_CSCI596_Fall2020_Final_Project/Screen Shot 2020-11-21 at 9.37.10 PM.png
+
+![alt text]/Users/tsehsien/Desktop/Git_Repository/USC_CSCI596_Fall2020_Final_Project/Screen Shot 2020-11-21 at 9.37.25 PM.png
 
 ## _Specific Objectives:_
 1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
