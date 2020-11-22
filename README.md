@@ -9,8 +9,8 @@ In this proposal, I aim to utilize what I have learned in CSCI 596 to do the par
 This new application of parallel computing on a 3-dimensional FDTD electromagnetic inverse desgin problem can be applied to not only on the design of optical components for the optical communications, but also on the design of complex optical systems for Augmented Reality(AR) and Virtual Reality(VR). The previous undiscovered possible designs that might have higher efficiencies and more advanced functionalities can be explored after applying the parallel computing. 
 
 > Specific Objectives:
-1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
-2. Spatial decomposition of a series version problem, with the discuss of what cut-off length of each cell shoule be considered.
+> 1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
+> 2. Spatial decomposition of a series version problem, with the discuss of what cut-off length of each cell shoule be considered.
 
 
-~~The world is flat.~~
+
