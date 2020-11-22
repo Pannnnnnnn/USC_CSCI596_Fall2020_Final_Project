@@ -15,9 +15,9 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
    reflective index materials) 
    
  ## _Task List:_
-   -[x] Working on a series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
-   -[ ] What cut-off length of each cell shoule be considered?
-   -[ ] The variation of grib sizes on different simulation cells.
+   - [x] Working on a series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
+   - [ ] What cut-off length of each cell shoule be considered?
+   - [ ] The variation of grib sizes on different simulation cells.
 
 ## _Reference:_
 
