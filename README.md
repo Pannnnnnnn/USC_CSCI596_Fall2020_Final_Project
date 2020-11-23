@@ -25,3 +25,7 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
 
 ## _Reference:_
 [1] [Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller,] (http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf)
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
