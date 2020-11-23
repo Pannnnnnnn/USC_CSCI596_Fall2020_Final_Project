@@ -24,8 +24,4 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
    - [ ] The variation of grib sizes on different simulation cells.
 
 ## _Reference:_
-
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+[1] Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller, http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf
