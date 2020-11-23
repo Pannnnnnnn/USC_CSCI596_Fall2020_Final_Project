@@ -8,6 +8,8 @@ In this proposal, the parallel computing technique will be applied on a general 
 
 This new application of parallel computing on a 3-dimensional FDTD electromagnetic inverse desgin problem can be applied to not only on the design of optical components for the optical communications, but also on the design of complex optical systems for Augmented Reality(AR) and Virtual Reality(VR). The previous undiscovered possible designs that might have higher efficiencies and more advanced functionalities can be explored after applying the parallel computing. A even larger scale electromagnetic inverse design probelm can also be explored by the combination of hybrid MPI, OpenMP, and CUDA.
 
+![alt text](https://lumopt.readthedocs.io/en/latest/_static/splitter_vid.mp4)
+
 
 ![alt text](https://support.lumerical.com/hc/article_attachments/360057318913/inverse_design_y_branch_initialshape.png)
 
@@ -19,7 +21,7 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
 3. The variation of grib sizes on different simulation cells might be possible. (fine grib size for high reflective index materials and coarse grib size for low reflective index materials) 
    
  ## _Task List:_
-   - [x] Working on a series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
+   - [x] A series version of a 3-Dimensional Inverse Design Problems using adjoint method wriiten in C language.
    - [ ] What cut-off length of each cell shoule be considered?
    - [ ] The variation of grib sizes on different simulation cells.
 
