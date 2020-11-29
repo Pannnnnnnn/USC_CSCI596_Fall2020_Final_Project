@@ -24,20 +24,20 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
    - [ ] The variation of grib sizes on different simulation cells.
 
 ## _Reference:_
-[ [1] Inverse design in nanophotonics, Sean Molesky, Zin Lin, Alexander Y. Piggott, Weiliang Jin, Jelena Vučković, Alejandro W. Rodriguez. Nature Photonics volume 12, pages 659–670 (2018)] (http://web.stanford.edu/group/nqp/jv_files/papers/molesky2018inverse.pdf)
+[ [1] Inverse design in nanophotonics, Sean Molesky, Zin Lin, Alexander Y. Piggott, Weiliang Jin, Jelena Vučković, Alejandro W. Rodriguez. Nature Photonics volume 12, pages 659–670 (2018)](http://web.stanford.edu/group/nqp/jv_files/papers/molesky2018inverse.pdf)
 
-[ [2] Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations, Logan Su, Dries Vercruysse, Jinhie Skarda, Neil V. Sapra, Jan A. Petykiewicz, Jelena Vučković] (https://aip.scitation.org/doi/10.1063/1.5131263)
+[ [2] Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations, Logan Su, Dries Vercruysse, Jinhie Skarda, Neil V. Sapra, Jan A. Petykiewicz, Jelena Vučković](https://aip.scitation.org/doi/10.1063/1.5131263)
 
-[ [3] Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller] (http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf)
+[ [3] Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller](http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf)
 
-[ [4] Adjoint shape optimization applied to electromagnetic design, Christopher M. Lalau-Keraly, Samarth Bhargava, Owen D. Miller, and Eli Yablonovitch] (https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
+[ [4] Adjoint shape optimization applied to electromagnetic design, Christopher M. Lalau-Keraly, Samarth Bhargava, Owen D. Miller, and Eli Yablonovitch](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
 
-[ [5] Inverse Design and Demonstration of a Compact on-Chip Narrowband Three-Channel Wavelength Demultiplexer, Logan Su, Alexander Y. Piggott, Neil V. Sapra, Jan Petykiewicz, and Jelena Vučković] (http://web.stanford.edu/group/nqp/jv_files/papers/su_acsphotonics_10_1021.pdf)
+[ [5] Inverse Design and Demonstration of a Compact on-Chip Narrowband Three-Channel Wavelength Demultiplexer, Logan Su, Alexander Y. Piggott, Neil V. Sapra, Jan Petykiewicz, and Jelena Vučković](http://web.stanford.edu/group/nqp/jv_files/papers/su_acsphotonics_10_1021.pdf)
 
-[ [6] Inverse design and demonstration of a compact and broadband on-chip wavelength demultiplexer, Alexander Y. Piggott, Jesse Lu, Konstantinos G. Lagoudakis, Jan Petykiewicz, Thomas M. Babinec and Jelena Vučković] (http://web.stanford.edu/group/nqp/jv_files/papers/inverse_design_wdm.pdf)
+[ [6] Inverse design and demonstration of a compact and broadband on-chip wavelength demultiplexer, Alexander Y. Piggott, Jesse Lu, Konstantinos G. Lagoudakis, Jan Petykiewicz, Thomas M. Babinec and Jelena Vučković](http://web.stanford.edu/group/nqp/jv_files/papers/inverse_design_wdm.pdf)
 
-[ [7] Periodic Dielectric Metasurfaces with High-Efficiency, Multiwavelength Functionalities, David Sell, Jianji Yang, Sage Doshay, and Jonathan A. Fan] (https://fanlab.stanford.edu/wp-content/papercite-data/pdf/sell2017periodic.pdf)
+[ [7] Periodic Dielectric Metasurfaces with High-Efficiency, Multiwavelength Functionalities, David Sell, Jianji Yang, Sage Doshay, and Jonathan A. Fan](https://fanlab.stanford.edu/wp-content/papercite-data/pdf/sell2017periodic.pdf)
 
-[ [8] High-efficiency, large-area, topologyoptimized metasurfaces, Thaibao Phan, David Sell, Evan W. Wang, Sage Doshay, Kofi Edee, Jianji Yang and Jonathan A. Fan] (https://fanlab.stanford.edu/wp-content/papercite-data/pdf/phan2019high.pdf)
+[ [8] High-efficiency, large-area, topologyoptimized metasurfaces, Thaibao Phan, David Sell, Evan W. Wang, Sage Doshay, Kofi Edee, Jianji Yang and Jonathan A. Fan](https://fanlab.stanford.edu/wp-content/papercite-data/pdf/phan2019high.pdf)
 
 
