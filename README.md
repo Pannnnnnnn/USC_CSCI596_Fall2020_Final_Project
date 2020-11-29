@@ -10,18 +10,18 @@ Figure 1. Overview of the inverse design process.<sup>[6]</sup>
   <b>Figure 1. Overview of the inverse design process.<sup>[6]</sup></b><br>
 </p>
 
-In this proposal, the parallel computing technique will be applied on a general 3-dimensional FDTD electromagnetic inverse desgin problem. By doing the spatial decomposition on an inverse desgin probelm, the entire simulation can be divided into several subproblems, in which each subproblems can be solved parallely and might have enough computional resources to explore the thickness parameter in a 3-dimensional problem. In addition to a lower computional expense, notice that there is no preodic boundary constraint applied here indicating that an entire space of possible designs can be explored. 
+In this proposal, the parallel computing technique will be applied on a general 3-dimensional FDTD electromagnetic inverse desgin problem. By doing the spatial decomposition on an inverse desgin probelm, the entire simulation can be divided into several subproblems, in which each subproblems can be solved parallely and might have enough computional resources to explore the thickness parameter in a 3-dimensional problem. In addition to a lower computional expense, no preodic boundary constraint is applied here indicating that an entire space of possible designs can be explored. 
 
-This new application of parallel computing on a 3-dimensional FDTD electromagnetic inverse desgin problem can be applied to not only on the design of optical components for the optical communications, but also on the design of complex optical systems for Augmented Reality(AR) and Virtual Reality(VR). The previous undiscovered possible designs that might have higher efficiencies and more advanced functionalities can be explored after applying the parallel computing. A even larger scale electromagnetic inverse design probelm can also be explored by the combination of hybrid MPI, OpenMP, and CUDA.
+This new application of parallel computing on a 3-dimensional FDTD electromagnetic inverse desgin problem can be applied to not only on the design of optical components for the optical communications, but also on the design of complex optical systems. The previous undiscovered possible designs that might have higher efficiencies and more advanced functionalities can be explored after applying the parallel computing. A even larger scale electromagnetic inverse design probelm can also be explored by the combination of hybrid MPI, OpenMP, and CUDA.
 
 
 ## _Specific Objectives:_
-1. A series version of a 3-Dimensional Inverse Design Problems with adjoint method wriiten in C language.
+1. A series version of a 3-Dimensional Inverse Design Problems using the adjoint method wriiten in C language.
 2. The spatial decomposition of a series version problem, with the discuss of what cut-off length of each cell shoule be considered.
-3. The variation of grib sizes on different simulation cells might be possible. (fine grib size for high reflective index materials and coarse grib size for low reflective index materials) 
+3. The variation of grib sizes on different simulation cells might be possible. (finer grib sizes for high reflective index materials and coarser grib sizes for low reflective index materials) 
    
  ## _Task List:_
-   - [x] A series version of a 3-Dimensional Inverse Design Problems using adjoint method wriiten in C language.
+   - [x] A series version of a 3-Dimensional Inverse Design Problems using the adjoint method wriiten in C language.
    - [ ] What cut-off length of each cell shoule be considered?
    - [ ] The variation of grib sizes on different simulation cells.
 
