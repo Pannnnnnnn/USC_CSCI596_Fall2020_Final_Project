@@ -2,7 +2,7 @@
 
 ## _Abstract_
 
-As the increasing demand for highly efficient optical components for the optical communications as well as more complex optical systems for Augmented Reality(AR) and Virtual Reality(VR), using simple and intuitive geometries of nanophotonics designs or metasurface desgins to imporve the efficicency of optical components or to achieve specific funcationalies of opticl systems become very difficult since these approaches only explore a small fraction of the possible design. The inverse design problem using **_adjoint method_**<sup>[1,2]</sup>, which uses gradient-based optimization methods, is a promising method that provides an efficient approach to explore the entire space of possible designs and has been used to demonstrate devices that have better efﬁciencies and novel functionalities. _Although this method greatly reduces the computional expense of an electromagnetic simuation, _the entire parameter searching space is still large so that most of the current researches **fixed the thickness of their designs to simplify their 3-dimensional problem to a 2-dimensional probelm or using a preodic boundary constraint** to reduce their design space._ _However, **fixing the thickness of a desgin, starting from a 2-dimensional reulst and exploring the same question in the third dimension, or limiting a desgin to be a preodic nanostructure still limit the opportunity to explore more possible designs** that might have higher efficiencies and more advanced functionalities._
+As the increasing demand for highly efficient optical components for the optical communications as well as more complex optical systems for Augmented Reality(AR) and Virtual Reality(VR), using simple and intuitive geometries of nanophotonics designs or metasurface desgins to imporve the efficicency of optical components or to achieve specific funcationalies of opticl systems become very difficult since these approaches only explore a small fraction of the possible design.<sup>[1,2]</sup> The inverse design problem using **_adjoint method_**<sup>[3,4]</sup>, which uses gradient-based optimization methods, is a promising method that provides an efficient approach to explore the entire space of possible designs and has been used to demonstrate devices that have better efﬁciencies and novel functionalities. _Although this method greatly reduces the computional expense of an electromagnetic simuation, _the entire parameter searching space is still large so that most of the current researches **fixed the thickness of their designs to simplify their 3-dimensional problem to a 2-dimensional probelm<sup>[5,6]</sup> or using a preodic boundary constraint<sup>[7,8]</sup>** to reduce their design space._ _However, **fixing the thickness of a desgin, starting from a 2-dimensional reulst and exploring the same question in the third dimension, or limiting a desgin to be a preodic nanostructure still limit the opportunity to explore more possible designs** that might have higher efficiencies and more advanced functionalities._
 
 ![alt text](https://support.lumerical.com/hc/article_attachments/360057318913/inverse_design_y_branch_initialshape.png)
 
@@ -24,9 +24,20 @@ This new application of parallel computing on a 3-dimensional FDTD electromagnet
    - [ ] The variation of grib sizes on different simulation cells.
 
 ## _Reference:_
-[ [1] Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller](http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf)
+[ [1] Inverse design in nanophotonics, Sean Molesky, Zin Lin, Alexander Y. Piggott, Weiliang Jin, Jelena Vučković, Alejandro W. Rodriguez. Nature Photonics volume 12, pages 659–670 (2018)] (http://web.stanford.edu/group/nqp/jv_files/papers/molesky2018inverse.pdf)
 
-[ [2] Adjoint shape optimization applied to electromagnetic design, Christopher M. Lalau-Keraly, Samarth Bhargava, Owen D. Miller, and Eli Yablonovitch](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
+[ [2] Nanophotonic Inverse Design with SPINS: Software Architecture and Practical Considerations, Logan Su, Dries Vercruysse, Jinhie Skarda, Neil V. Sapra, Jan A. Petykiewicz, Jelena Vuckovic ́] (https://aip.scitation.org/doi/10.1063/1.5131263)
 
+[ [3] Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design, Owen Dennis Miller](http://optoelectronics.eecs.berkeley.edu/ThesisOwenMiller.pdf)
+
+[ [4] Adjoint shape optimization applied to electromagnetic design, Christopher M. Lalau-Keraly, Samarth Bhargava, Owen D. Miller, and Eli Yablonovitch](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
+
+[ [5] Inverse Design and Demonstration of a Compact on-Chip Narrowband Three-Channel Wavelength Demultiplexer, Logan Su, Alexander Y. Piggott, Neil V. Sapra, Jan Petykiewicz, and Jelena Vuckovic ́] (http://web.stanford.edu/group/nqp/jv_files/papers/su_acsphotonics_10_1021.pdf)
+
+[ [6] Inverse design and demonstration of a compact and broadband on-chip wavelength demultiplexer, Alexander Y. Piggott, Jesse Lu, Konstantinos G. Lagoudakis, Jan Petykiewicz, Thomas M. Babinec and Jelena Vučković*] (http://web.stanford.edu/group/nqp/jv_files/papers/inverse_design_wdm.pdf)
+
+[ [7] Periodic Dielectric Metasurfaces with High-Efficiency, Multiwavelength Functionalities, David Sell, Jianji Yang, Sage Doshay, and Jonathan A. Fan] (https://fanlab.stanford.edu/wp-content/papercite-data/pdf/sell2017periodic.pdf)
+
+[ [8] High-efficiency, large-area, topologyoptimized metasurfaces, Thaibao Phan, David Sell, Evan W. Wang, Sage Doshay, Kofi Edee, Jianji Yang and Jonathan A. Fan] (https://fanlab.stanford.edu/wp-content/papercite-data/pdf/phan2019high.pdf)
 
 
