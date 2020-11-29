@@ -6,8 +6,9 @@ As the increasing demand for highly efficient optical components for the optical
 
 ![Figure 1](https://github.com/tsehso/USC_CSCI596_Fall2020_Final_Project/blob/main/Screen%20Shot%202020-11-28%20at%205.47.42%20PM.png)
 Figure 1. Overview of the inverse design process.<sup>[6]</sup>
-
-
+<p align="center">
+  <b>Figure 1. Overview of the inverse design process.<sup>[6]</sup></b><br>
+</p>
 
 In this proposal, the parallel computing technique will be applied on a general 3-dimensional FDTD electromagnetic inverse desgin problem. By doing the spatial decomposition on an inverse desgin probelm, the entire simulation can be divided into several subproblems, in which each subproblems can be solved parallely and might have enough computional resources to explore the thickness parameter in a 3-dimensional problem. In addition to a lower computional expense, notice that there is no preodic boundary constraint applied here indicating that an entire space of possible designs can be explored. 
 
